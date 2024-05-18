@@ -108,4 +108,4 @@ jobs:
         with:
           context: starter/backend
           push: true
-          tags: lehonganh/my-backend-app:latest
+          tags: mp-backend:latest
