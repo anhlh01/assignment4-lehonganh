@@ -131,4 +131,4 @@ jobs:
         with:
           context: starter/frontend
           push: true
-          tags: mp-frontend:latest
+          tags: lehonganh01/my-frontend-app:latest
